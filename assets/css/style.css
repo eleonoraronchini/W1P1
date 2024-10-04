@@ -102,17 +102,24 @@ button{
 }
 .images{
     width: 100%;
-    padding: 2rem;
+    height: 80%;
 
 }
-.sec1{
+.card1,.card2,.card3{
     border: 2px solid #dee1ed;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    margin:0 auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .fih4{
     font-weight: bold;
     color:#25a2c3;
     font-family: Montserrat;
-    padding-top: 1rem;
 }
 .pi4{
     font-family: Open Sans;
