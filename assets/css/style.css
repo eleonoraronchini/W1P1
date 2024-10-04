@@ -30,6 +30,8 @@ h2{
 }
 .banner{
     background-image:url(/assets/images/banner.jpg);
+    background-position: center;
+    background-size: cover;
     max-width: 100%;
     padding: 2rem;
     height: 300px;
@@ -73,11 +75,62 @@ button{
     color: white;
     padding-top: 3rem;
     padding-bottom: 1rem;
+    font-family: Montserrat;
+    font-size: 2rem;
 }
 .art1{
     background-color: #f04c2f;
     color: white;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
 }
 .rp{
-    font-style:oblique;
+    font-style:italic;
+    font-family:Open Sans;
+    font-size: 1.1rem;
+    padding-bottom: 1rem;
+    font-family: Open Sans;
+}
+.rp2{
+    font-size: 1.2rem;
+}
+.images{
+    width: 100%;
+}
+.fih4{
+    font-weight: bold;
+    color:#25a2c3;
+    font-family: Montserrat;
+    padding-top: 1rem;
+}
+.pi4{
+    font-family: Open Sans;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+footer{
+    background-color: #25a2c3;
+    color: white;
+    font-family: Open Sans;
+    padding:2rem;
+}
+footer h3{
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: Montserrat;
+    padding: 1.5rem;
+}
+footer a{
+    color: white;
+}
+.las{
+    padding-bottom: 2rem;
+}
+hr{
+    color: white;
+}
+.li{
+    padding: 2rem;
 }
